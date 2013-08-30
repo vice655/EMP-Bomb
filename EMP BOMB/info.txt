@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "TTT Jihad Bomb"
+	"author_name" "author"
+	"info" "This is a TTT compatible Jihad Bomb. Everything you need to get this up and running on your TTT server is in this addon, no need to change anything, it is also rather balanced."
+}
